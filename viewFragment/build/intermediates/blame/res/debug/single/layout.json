@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\VR\\ViewFragment\\viewFragment\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "F:\\VR\\ViewFragment\\viewFragment\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "F:\\VR\\ViewFragment\\viewFragment\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
+        "source": "F:\\VR\\ViewFragment\\viewFragment\\src\\main\\res\\layout\\fragment3.xml"
+    },
+    {
+        "merged": "F:\\VR\\ViewFragment\\viewFragment\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\VR\\ViewFragment\\viewFragment\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\VR\\ViewFragment\\viewFragment\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
+        "source": "F:\\VR\\ViewFragment\\viewFragment\\src\\main\\res\\layout\\fragment2.xml"
+    }
+]
